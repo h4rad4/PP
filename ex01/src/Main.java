@@ -31,7 +31,7 @@ public class Main {
             soma += notas[i];
         }
 
-        System.out.printf("media = %.2f\n", (soma - maior - menor)/3);
+        System.out.printf("Media = %.2f\n", (soma - maior - menor)/3);
         System.out.printf("Maior = %.2f\n", maior);
         System.out.printf("Menor = %.2f\n", menor);
     }
